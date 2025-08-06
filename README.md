@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nurbek 👋</h1>
 <p align="center">Junior Frontend Developer | Learning everyday | Building cool stuff</p>
 
----
 
-## 🚀 Projects
+
+ 🚀 Projects
 
 | Project Name            | Description                                   | Demo Link                                                 |
 |-------------------------|-----------------------------------------------|-----------------------------------------------------------|
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,16 +24,16 @@
 
 ---
 
-## 📫 Contact Me
-- Email: baekenov2001@mail.ru
-- Telegram: https://t.me/insanittyy
+📫 Contact Me
+ Email: baekenov2001@mail.ru
+ Telegram: https://t.me/insanittyy
 
----
 
-## 🌱 Currently learning:
-- JavaScript Advanced (DOM, Events, Async)
-- React.js (coming soon)
-## 🏊 Piscine Go (01 Edu Intensive)
+
+ 🌱 Currently learning:
+JavaScript Advanced (DOM, Events, Async)
+  React.js (coming soon)
+  🏊 Piscine Go (01 Edu Intensive)
 Completed a 4-week intensive bootcamp in Go programming (Piscine Go) at 01 Edu Platform.
 Worked on various algorithmic problems, data structures, and terminal-based tools in a Linux environment.
 
