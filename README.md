@@ -33,3 +33,8 @@
 ## 🌱 Currently learning:
 - JavaScript Advanced (DOM, Events, Async)
 - React.js (coming soon)
+## 🏊 Piscine Go (01 Edu Intensive)
+Completed a 4-week intensive bootcamp in Go programming (Piscine Go) at 01 Edu Platform.
+Worked on various algorithmic problems, data structures, and terminal-based tools in a Linux environment.
+
+[View Piscine-Go Projects Overview](https://01yessenov.yu.edu.kz/git/nbayeken)
