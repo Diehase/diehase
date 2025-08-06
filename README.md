@@ -25,8 +25,8 @@
 ---
 
 ## 📫 Contact Me
-- Email: diehase@example.com
-- Telegram: [@diehase](https://t.me/diehase)
+- Email: baekenov2001@mail.ru
+- Telegram: https://t.me/insanittyy
 
 ---
 
