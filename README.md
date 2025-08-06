@@ -5,14 +5,14 @@
 
  🚀 Projects
 
-| Project Name            | Description                                   | Demo Link                                                 |
-|-------------------------|-----------------------------------------------|-----------------------------------------------------------|
-| To-Do List               | Simple To-Do list app with basic CRUD actions | [View](https://diehase.github.io/to-do-list/)              |
-| Weather App              | Weather display using OpenWeather API        | [View](https://diehase.github.io/weather-app/)             |
-| Calculator               | Simple calculator using HTML/CSS/JS          | [View](https://diehase.github.io/calculator/)              |
-| Countdown Timer          | Countdown to a selected date                 | [View](https://diehase.github.io/countdown-timer/)         |
-| Expense Tracker          | Track your daily expenses                    | [View](https://diehase.github.io/expense-tracker/)         |
-| Random Quote Generator   | Generates random inspirational quotes        | [View](https://diehase.github.io/quotes-generator/)        |
+| Project Name            | Description                                   |                                              
+|-------------------------|-----------------------------------------------|
+| To-Do List               | Simple To-Do list app with basic CRUD actions| 
+| Weather App              | Weather display using OpenWeather API        | 
+| Calculator               | Simple calculator using HTML/CSS/JS          | 
+| Countdown Timer          | Countdown to a selected date                 | 
+| Expense Tracker          | Track your daily expenses                    | 
+| Random Quote Generator   | Generates random inspirational quotes        | 
 
 ---
 
