@@ -13,6 +13,7 @@
 | Countdown Timer          | Countdown to a selected date                 | 
 | Expense Tracker          | Track your daily expenses                    | 
 | Random Quote Generator   | Generates random inspirational quotes        | 
+| Blog App                 | Personal blog platform                       | 
 
 ---
 
