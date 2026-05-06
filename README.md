@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nurbek 👋</h1>
-<p align="center">Middle Frontend Developer | Learning everyday | Building cool stuff</p>
+<p align="center"> Learning everyday | Building cool stuff</p>
 
 
 
