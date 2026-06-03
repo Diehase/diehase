@@ -28,6 +28,7 @@
 📫 Contact Me
  Email: baekenov2001@mail.ru
  Telegram: https://t.me/insanittyy
+ Linkedin:https://www.linkedin.com/in/nurbek-bayekenov-685b25407/
 
 
 
